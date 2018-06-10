@@ -1,0 +1,38 @@
+.normal {
+  color: #777;
+  background-color: #e8e8e8;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.divnormal {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #e8e8e8;
+}
+
+.overready {
+  background-color: #9aff83;
+  border-color: #9aff83;
+}
+
+.ship {
+  background-color: #84b3ff;
+  border-color: #5f81b7;
+}
+
+.overerror {
+  background-color: #ff8383;
+  border-color: #ff8383;
+}
+
+.hitempty {
+  background-color: #ffe6a2;
+  border-color: #ffe6a2;
+}
+
+.hitship {
+  background-color: #ffcd44;
+  border-color: #aa892d;
+}
